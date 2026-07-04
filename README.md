@@ -23,7 +23,7 @@ def add_task():
     print("✅ Task added!")
 
 def list_tasks():
-    tasks = load_tasks()
+    task = load_tasks()
     if not tasks:
         print("No tasks found.")
         retr
