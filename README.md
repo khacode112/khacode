@@ -62,7 +62,7 @@ while True:
     print("2. List Tasks")
     print("3. Complete Task")
     print("4. Delete Task")
-    print("5. Exit")
+("5. Exit")
 
     choice = input("Choose: ")
 
