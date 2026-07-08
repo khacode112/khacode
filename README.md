@@ -80,3 +80,4 @@ while True:
         print("Invalid choice.")
 List the advantages and disadvantages.
 Imagine living on Mars.
+im a teacher 
