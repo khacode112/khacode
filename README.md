@@ -3,7 +3,7 @@ og
 import json
 import os
 
-FILE = "tasks.json"
+
 
 def load_tasks():
     if os.path.exists(FILE):
