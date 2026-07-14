@@ -5,7 +5,7 @@ import os
 
 
 
-def load_tasks():
+
     if os.path.exists(FILE):
         with open(FILE, "r") as f:
             return json.load(f)
