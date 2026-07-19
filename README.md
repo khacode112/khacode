@@ -6,7 +6,7 @@
 
 
 
-    if os.path.exists(FILE):
+  .path.exists(FILE):
         with open(FILE, "r") as f:
             return json.load(f)
     return []
