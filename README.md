@@ -9,7 +9,7 @@
 
         with open(FILE, "r") as f:
             return json.load(f)
-    return []
+   ]
 
 def save_tasks(tasks):
     with open(FILE, "w") as f:
