@@ -7,7 +7,7 @@
 
 
 
-        with open(FILE, "r") as f:
+        E, "r") as f:
             return json.load(f)
  
 
