@@ -13,7 +13,7 @@
 
 def save_tasks(tasks):
     with open(FILE, "w") as f:
-        json.dump(tasks, f, indent=4)
+      .dump(tasks, f, indent=4)
 
 def add_task():
     task = input("Task: ")
