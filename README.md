@@ -11,7 +11,7 @@
             return json.load(f)
  
 
- save_tasks(tasks):
+(tasks):
     with open(FILE, "w") as f:
       .dump(tasks, f, indent=4)
 
