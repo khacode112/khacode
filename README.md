@@ -8,7 +8,7 @@
 
 
         E, "r") as f:
-            return json.load(f)
+         json.load(f)
  
 
 (tasks):
