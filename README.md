@@ -11,7 +11,7 @@
          json.load(f)
  
 
-(tasks):
+:
     with open(FILE, "w") as f:
       .dump(tasks, f, indent=4)
 
