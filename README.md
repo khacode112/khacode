@@ -12,7 +12,7 @@
  
 
 :
-    with open(FILE, "w") as f:
+  (FILE, "w") as f:
       .dump(tasks, f, indent=4)
 
 def add_task():
