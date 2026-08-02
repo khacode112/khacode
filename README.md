@@ -8,7 +8,7 @@
 
 
         E, "r") as f:
-         json.load(f)
+        load(f)
  
 
 :
