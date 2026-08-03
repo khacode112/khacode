@@ -12,7 +12,6 @@
  
 
 :
-  (FILE, "w") as f:
       f, indent=4)
 
 def add_task():
