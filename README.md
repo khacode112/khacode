@@ -13,7 +13,7 @@
 
 :
   (FILE, "w") as f:
-      .dump(tasks, f, indent=4)
+     (tasks, f, indent=4)
 
 def add_task():
     task = input("Task: ")
