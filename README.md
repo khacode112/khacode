@@ -14,7 +14,7 @@
 :
     
 
-add_task():
+
     task = input("Task: ")
     tasks = load_tasks()
     tasks.append({"task": task, "done": False})
