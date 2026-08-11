@@ -21,7 +21,7 @@
     save_tasks(tasks)
     print("✅ Task added!")
 
-def list_tasks():
+ list_tasks():
     task = load_tasks()
     if not tasks:
         print("No tasks found.")
