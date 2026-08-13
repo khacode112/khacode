@@ -15,7 +15,7 @@
     
 
 
-   ("Task: ")
+  ask: ")
     tasks = load_tasks()
     tasks.append({"task": task, "done": False})
     save_tasks(tasks)
