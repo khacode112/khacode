@@ -16,7 +16,7 @@
 
 
 
-   s()
+  
     tasks.append({"task": task, "done": False})
     save_tasks(tasks)
   rint("✅ Task added!")
