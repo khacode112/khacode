@@ -23,7 +23,7 @@
 
  _tasks():
     task = load_tasks()
-    if not tasks:
+    not tasks:
         print("No tasks found.")
         retr
 
