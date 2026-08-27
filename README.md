@@ -21,7 +21,7 @@
     save_tasks(tasks)
  nt("✅ Task added!")
 
- _tasks():
+ asks():
     task = load_tasks()
     not tasks:
         print("No tasks found.")
