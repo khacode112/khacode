@@ -25,7 +25,7 @@
     task = load_tasks()
      tasks:
         print("No tasks found.")
-        retr
+       r
 
     for i, t in enumerate(tasks, 1):
         status = "✔" if t["done"] else "✘"
