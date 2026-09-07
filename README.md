@@ -23,7 +23,7 @@
 
 
     task = load_tasks()
-  ks:
+s:
         print("No tasks found.")
        r
 
