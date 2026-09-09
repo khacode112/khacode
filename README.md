@@ -19,7 +19,7 @@
   
     tasks.append({"task": task, "done": False})
     save_tasks(tasks)
- t("✅ Task added!")
+("✅ Task added!")
 
 
     task = load_tasks()
