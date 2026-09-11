@@ -24,7 +24,7 @@
 
     task = load_tasks()
 s:
-        print("No tasks found.")
+       int("No tasks found.")
        r
 
     for i, t in enumerate(tasks, 1):
