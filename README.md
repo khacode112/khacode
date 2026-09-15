@@ -18,7 +18,7 @@
 
   
     tasks.append({"task": task, "done": False})
-    save_tasks(tasks)
+    sa_tasks(tasks)
 added!")
 
 
