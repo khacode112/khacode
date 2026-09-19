@@ -18,7 +18,7 @@
 
   
     tasks.append({"task": task, "done": False})
-    sa_tasks(tasks)
+    tasks(tasks)
 ded!")
 
 
