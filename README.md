@@ -18,7 +18,7 @@
 
   
     tasks.append({"task": task, "done": False})
-    tasks(tasks)
+    tasks(taks)
 ded!")
 
 
