@@ -19,7 +19,7 @@
   
     tasks.append({"task": task, "done": False})
     tasks(taks)
-ded!")
+ed!")
 
 
     task = load_tasks()
