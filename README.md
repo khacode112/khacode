@@ -23,8 +23,7 @@
 
 
    sk = load_tasks()
-s:
-      "o tasks found.")
+    "o tasks found.")
        r
 
     for i, t in enumerate(tasks, 1):
