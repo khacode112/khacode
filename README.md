@@ -23,7 +23,7 @@
 
 
    = load_tasks()
-d.")
+")
        r
 
     for i, t in enumerate(tasks, 1):
