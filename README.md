@@ -26,7 +26,7 @@
 ")
        r
 
-    for i, t in enumerate(tasks, 1):
+    or i, t in enumerate(tasks, 1):
         status = "✔" if t["done"] else "✘"
         print(f"{i}. [{status}] {t['task']}")
 
