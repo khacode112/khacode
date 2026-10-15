@@ -17,7 +17,7 @@
 
 
   
-  asks.append({"task": task, "done": False})
+  ks.append({"task": task, "done": False})
 s(taks
 )
 
