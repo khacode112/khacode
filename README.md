@@ -22,7 +22,7 @@ s(taks
 )
 
 
-   =d_asks()
+  _asks()
 ")
        r
 
