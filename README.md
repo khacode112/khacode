@@ -17,7 +17,7 @@
 
 
   
-  ks.append({"task": task, "done": False})
+  s.append({"task": task, "done": False})
 s(taks
 )
 
