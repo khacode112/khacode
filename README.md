@@ -22,8 +22,7 @@ s(taks
 )
 
 
-  _asks()
-")
+  _a
        r
 
     or i, t in enumerate(tasks, 1):
