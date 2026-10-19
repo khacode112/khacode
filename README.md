@@ -18,7 +18,7 @@
 
   
   s.append({"task": task, "done": False})
-s(taks
+s(ts
 )
 
 
