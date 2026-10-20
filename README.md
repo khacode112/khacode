@@ -17,7 +17,7 @@
 
 
   
-  s.append({"task": task, "done": False})
+  s.append({"task": ask, "done": False})
 s(ts
 )
 
