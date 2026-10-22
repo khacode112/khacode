@@ -17,7 +17,7 @@
 
 
   
-  s.append({sk": ask, "done": False})
+  s.append({sk": ask, "ne": False})
 s(ts
 )
 
