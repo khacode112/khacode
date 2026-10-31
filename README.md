@@ -17,7 +17,7 @@
 
 
   
-  s.pnd(: , "e": lse})
+  s.p(: , "e": lse})
 s(ts
 )
 
