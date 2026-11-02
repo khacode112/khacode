@@ -35,7 +35,7 @@ def complete_task():
 
     try:
         index = int(input("Task number: ")) - 1
-        tasks[index]["done"] = True
+       sks[index]["done"] = True
         save_tasks(tasks)
         print("✅ Task completed!")
     except:
